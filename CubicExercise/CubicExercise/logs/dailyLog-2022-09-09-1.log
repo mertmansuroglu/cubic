@@ -1,0 +1,58 @@
+[INFO ] 2022-09-09 22:18:13.671 HomePage:44 - Opened home Website
+[INFO ] 2022-09-09 22:18:15.894 HomePage:49 - clicked login page button
+[INFO ] 2022-09-09 22:18:15.911 LoginPage:44 - expected page header text is [[RemoteWebDriver: chrome on WINDOWS (da3e530a87313fc2d5aff0f2dde699b1)] -> css selector: #center_column h1.page-heading] : 
+[INFO ] 2022-09-09 22:18:18.742 LoginPage:60 - User has entered username as mertmansurolu@gmail.com and pwd as 12345
+[INFO ] 2022-09-09 22:18:18.757 LoginPage:49 - expected success message is [[RemoteWebDriver: chrome on WINDOWS (da3e530a87313fc2d5aff0f2dde699b1)] -> css selector: div#center_column p.info-account] : 
+[INFO ] 2022-09-09 22:18:25.068 HomePage:44 - Opened home Website
+[INFO ] 2022-09-09 22:18:28.549 HomePage:49 - clicked login page button
+[INFO ] 2022-09-09 22:18:28.564 LoginPage:44 - expected page header text is [[RemoteWebDriver: chrome on WINDOWS (0a9e80142a7f2b40fe702aa7c05c922b)] -> css selector: #center_column h1.page-heading] : 
+[INFO ] 2022-09-09 22:18:29.750 LoginPage:60 - User has entered username as mertmansurolu@gmail.com and pwd as passw
+[INFO ] 2022-09-09 22:18:35.980 HomePage:44 - Opened home Website
+[INFO ] 2022-09-09 22:18:37.744 HomePage:49 - clicked login page button
+[INFO ] 2022-09-09 22:18:37.763 LoginPage:44 - expected page header text is [[RemoteWebDriver: chrome on WINDOWS (7ff8d6529a747f7b74e4c6984dbbc0fe)] -> css selector: #center_column h1.page-heading] : 
+[INFO ] 2022-09-09 22:18:38.878 LoginPage:60 - User has entered username as arda and pwd as passw
+[INFO ] 2022-09-09 22:52:21.712 HomePage:44 - Opened home Website
+[INFO ] 2022-09-09 22:52:21.714 LoginPage:30 - User went to home page
+[INFO ] 2022-09-09 22:52:23.655 HomePage:49 - clicked login page button
+[INFO ] 2022-09-09 22:52:23.655 LoginPage:44 - User went to login page
+[INFO ] 2022-09-09 22:52:23.687 LoginPage:44 - expected page header text is AUTHENTICATION : 
+[INFO ] 2022-09-09 22:52:23.710 LoginPage:50 - user is currently on the login page and header text is AUTHENTICATION
+[INFO ] 2022-09-09 22:52:26.269 LoginPage:60 - User has entered username as mertmansurolu@gmail.com and pwd as 12345
+[INFO ] 2022-09-09 22:52:26.301 LoginPage:49 - expected success message is Welcome to your account. Here you can manage all of your personal information and orders. : 
+[INFO ] 2022-09-09 22:52:26.322 LoginPage:64 - user successfully logged in the page and login message is Welcome to your account
+[INFO ] 2022-09-09 22:54:51.605 LoginPage:30 - User went to home page
+[INFO ] 2022-09-09 22:54:55.499 LoginPage:44 - User went to login page
+[INFO ] 2022-09-09 22:54:55.531 LoginPage:50 - user is currently on the login page and header text is AUTHENTICATION
+[INFO ] 2022-09-09 22:54:59.115 LoginPage:59 - User has entered username as mertmansurolu@gmail.com and pwd as 12345
+[INFO ] 2022-09-09 22:54:59.151 LoginPage:48 - expected success message is :  Welcome to your account. Here you can manage all of your personal information and orders.  
+[INFO ] 2022-09-09 22:54:59.172 LoginPage:64 - user successfully logged in the page and login message is Welcome to your account
+[INFO ] 2022-09-09 22:57:26.812 LoginPage:48 - user is currently on the login page and header text is AUTHENTICATION
+[INFO ] 2022-09-09 22:57:28.933 LoginPage:59 - User has entered username as mertmansurolu@gmail.com and pwd as 12345
+[INFO ] 2022-09-09 22:57:28.967 LoginPage:48 - expected success message is :  Welcome to your account. Here you can manage all of your personal information and orders.  
+[INFO ] 2022-09-09 22:57:28.987 LoginPage:62 - user successfully logged in the page and login message is: Welcome to your account
+[INFO ] 2022-09-09 22:59:27.451 HomePage:44 - user is heading to the home page
+[INFO ] 2022-09-09 22:59:29.258 HomePage:49 - user clicked the login page button
+[INFO ] 2022-09-09 22:59:29.290 LoginPage:48 - user is currently on the login page and header text is AUTHENTICATION
+[INFO ] 2022-09-09 22:59:31.772 LoginPage:59 - User has entered username as mertmansurolu@gmail.com and pwd as 12345
+[INFO ] 2022-09-09 22:59:31.812 LoginPage:48 - expected success message is :  Welcome to your account. Here you can manage all of your personal information and orders.  
+[INFO ] 2022-09-09 22:59:31.833 LoginPage:62 - user successfully logged in the page and login message is: Welcome to your account
+[INFO ] 2022-09-09 23:00:50.668 HomePage:44 - User is heading to the home page
+[INFO ] 2022-09-09 23:00:53.616 HomePage:49 - User clicked the login page button
+[INFO ] 2022-09-09 23:00:53.652 LoginPage:48 - User is currently on the login page and header text is AUTHENTICATION
+[INFO ] 2022-09-09 23:00:56.974 LoginPage:58 - User has entered username as mertmansurolu@gmail.com and pwd as 12345
+[INFO ] 2022-09-09 23:00:57.011 LoginPage:62 - User successfully logged in the page and login message is: Welcome to your account
+[INFO ] 2022-09-09 23:41:29.285 HomePage:38 - User is heading to the home page
+[INFO ] 2022-09-09 23:41:32.101 HomePage:43 - User clicked the login page button
+[INFO ] 2022-09-09 23:41:32.209 LoginPage:50 - User is currently on the login page and header text is AUTHENTICATION
+[INFO ] 2022-09-09 23:41:34.538 LoginPage:53 - User has entered username as mertmansurolu@gmail.com and pwd as 12345
+[INFO ] 2022-09-09 23:41:34.581 LoginPage:64 - User successfully logged in the page and login message is: Welcome to your account
+[INFO ] 2022-09-09 23:41:42.601 HomePage:38 - User is heading to the home page
+[INFO ] 2022-09-09 23:41:44.472 HomePage:43 - User clicked the login page button
+[INFO ] 2022-09-09 23:41:44.524 LoginPage:50 - User is currently on the login page and header text is AUTHENTICATION
+[INFO ] 2022-09-09 23:41:46.403 LoginPage:53 - User has entered username as mertmansurolu@gmail.com and pwd as passw
+[INFO ] 2022-09-09 23:41:46.460 LoginPage:70 - User could not logged in the page and error message is: Authentication failed
+[INFO ] 2022-09-09 23:41:54.753 HomePage:38 - User is heading to the home page
+[INFO ] 2022-09-09 23:41:56.900 HomePage:43 - User clicked the login page button
+[INFO ] 2022-09-09 23:41:56.927 LoginPage:50 - User is currently on the login page and header text is AUTHENTICATION
+[INFO ] 2022-09-09 23:41:59.277 LoginPage:53 - User has entered username as test and pwd as passw
+[INFO ] 2022-09-09 23:41:59.342 LoginPage:70 - User could not logged in the page and error message is: Invalid email address

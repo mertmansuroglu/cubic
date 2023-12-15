@@ -1,0 +1,70 @@
+[INFO ] 2022-09-10 00:02:44.297 HomePage:38 - User is heading to the home page
+[INFO ] 2022-09-10 00:02:47.037 HomePage:43 - User clicked the login page button
+[INFO ] 2022-09-10 00:02:47.081 LoginPage:50 - User is currently on the login page and header text is AUTHENTICATION
+[INFO ] 2022-09-10 00:02:49.433 LoginPage:53 - User has entered username as mertmansurolu@gmail.com and pwd as 12345
+[INFO ] 2022-09-10 00:02:49.475 LoginPage:64 - User successfully logged in the page and login message is: Welcome to your account
+[INFO ] 2022-09-10 17:13:16.320 HomePage:38 - User is heading to the home page
+[INFO ] 2022-09-10 17:13:21.725 HomePage:43 - User clicked the login page button
+[INFO ] 2022-09-10 17:13:21.767 LoginPage:50 - User is currently on the login page and header text is AUTHENTICATION
+[INFO ] 2022-09-10 17:13:30.403 LoginPage:61 - User has entered username as mertmansurolu@gmail.com and pwd as 12345
+[INFO ] 2022-09-10 17:13:30.429 LoginPage:64 - User successfully logged in the page and login message is: Welcome to your account
+[ERROR] 2022-09-10 18:12:15.314 LoginPage:29 - User could not enter to the home page
+[ERROR] 2022-09-10 18:12:51.913 LoginPage:29 - User could not enter to the home page
+[ERROR] 2022-09-10 18:13:19.533 LoginPage:29 - User could not enter to the home page
+[ERROR] 2022-09-10 18:13:58.672 LoginPage:29 - User could not enter to the home page
+[ERROR] 2022-09-10 18:14:55.361 LoginPage:29 - User could not enter to the home page
+[INFO ] 2022-09-10 18:17:40.995 HomePage:38 - User is heading to the home page
+[INFO ] 2022-09-10 18:17:43.566 HomePage:43 - User clicked the login page button
+[INFO ] 2022-09-10 18:17:43.601 LoginPage:50 - User is currently on the login page and header text is AUTHENTICATION
+[INFO ] 2022-09-10 18:17:45.863 LoginPage:65 - User has entered username as mertmansurolu@gmail.com and pwd as 12345
+[INFO ] 2022-09-10 18:17:45.894 LoginPage:64 - User successfully logged in the page and login message is: Welcome to your account
+[INFO ] 2022-09-10 18:20:24.145 HomePage:38 - User is heading to the home page
+[INFO ] 2022-09-10 18:20:29.411 HomePage:43 - User clicked the login page button
+[INFO ] 2022-09-10 18:20:29.452 LoginPage:50 - User is currently on the login page and header text is AUTHENTICATION
+[INFO ] 2022-09-10 18:20:34.393 LoginPage:65 - User has entered username as mertmansurolu@gmail.com and pwd as 12345
+[INFO ] 2022-09-10 18:20:34.419 LoginPage:64 - User successfully logged in the page and login message is: Welcome to your account
+[INFO ] 2022-09-10 18:20:51.016 HomePage:38 - User is heading to the home page
+[INFO ] 2022-09-10 18:21:01.500 HomePage:43 - User clicked the login page button
+[INFO ] 2022-09-10 18:21:01.565 LoginPage:50 - User is currently on the login page and header text is AUTHENTICATION
+[INFO ] 2022-09-10 18:21:06.699 LoginPage:65 - User has entered username as mertmansurolu@gmail.com and pwd as password
+[INFO ] 2022-09-10 18:21:06.724 LoginPage:70 - User could not logged in the page and error message is: Authentication failed
+[INFO ] 2022-09-10 18:21:22.362 HomePage:38 - User is heading to the home page
+[INFO ] 2022-09-10 18:21:29.108 HomePage:43 - User clicked the login page button
+[INFO ] 2022-09-10 18:21:29.156 LoginPage:50 - User is currently on the login page and header text is AUTHENTICATION
+[INFO ] 2022-09-10 18:21:36.087 LoginPage:65 - User has entered username as test and pwd as password
+[INFO ] 2022-09-10 18:21:36.121 LoginPage:70 - User could not logged in the page and error message is: Invalid email address
+[INFO ] 2022-09-10 18:24:43.570 HomePage:46 - User is heading to the home page
+[INFO ] 2022-09-10 18:24:48.740 HomePage:51 - User clicked the login page button
+[INFO ] 2022-09-10 18:24:48.771 LoginPage:54 - User is currently on the login page and header text is AUTHENTICATION
+[INFO ] 2022-09-10 18:24:57.635 LoginPage:65 - User has entered username as mertmansurolu@gmail.com and pwd as 12345
+[INFO ] 2022-09-10 18:24:57.670 LoginPage:68 - User successfully logged in the page and login message is: Welcome to your account
+[INFO ] 2022-09-10 18:26:45.173 HomePage:51 - User is heading to the home page
+[INFO ] 2022-09-10 18:26:51.327 HomePage:56 - User clicked the login page button
+[INFO ] 2022-09-10 18:26:51.360 LoginPage:54 - User is currently on the login page and header text is AUTHENTICATION
+[INFO ] 2022-09-10 18:26:53.368 LoginPage:65 - User has entered username as mertmansurolu@gmail.com and pwd as 12345
+[INFO ] 2022-09-10 18:26:53.394 LoginPage:68 - User successfully logged in the page and login message is: Welcome to your account
+[INFO ] 2022-09-10 18:27:01.916 HomePage:51 - User is heading to the home page
+[INFO ] 2022-09-10 18:27:06.339 HomePage:56 - User clicked the login page button
+[INFO ] 2022-09-10 18:27:06.365 LoginPage:54 - User is currently on the login page and header text is AUTHENTICATION
+[INFO ] 2022-09-10 18:27:14.804 LoginPage:65 - User has entered username as mertmansurolu@gmail.com and pwd as password
+[INFO ] 2022-09-10 18:27:14.836 LoginPage:74 - User could not logged in the page and error message is: Authentication failed
+[INFO ] 2022-09-10 18:27:22.844 HomePage:51 - User is heading to the home page
+[INFO ] 2022-09-10 18:27:24.582 HomePage:56 - User clicked the login page button
+[INFO ] 2022-09-10 18:27:24.616 LoginPage:54 - User is currently on the login page and header text is AUTHENTICATION
+[INFO ] 2022-09-10 18:27:26.220 LoginPage:65 - User has entered username as test and pwd as password
+[INFO ] 2022-09-10 18:27:26.247 LoginPage:74 - User could not logged in the page and error message is: Invalid email address
+[INFO ] 2022-09-10 18:56:36.456 HomePage:51 - User is heading to the home page
+[INFO ] 2022-09-10 18:56:38.389 HomePage:56 - User clicked the login page button
+[INFO ] 2022-09-10 18:56:38.422 LoginPage:54 - User is currently on the login page and header text is AUTHENTICATION
+[INFO ] 2022-09-10 18:56:43.319 LoginPage:65 - User has entered username as mertmansurolu@gmail.com and pwd as 12345
+[INFO ] 2022-09-10 18:56:43.371 LoginPage:68 - User successfully logged in the page and login message is: Welcome to your account
+[INFO ] 2022-09-10 18:56:55.885 HomePage:51 - User is heading to the home page
+[INFO ] 2022-09-10 18:56:58.454 HomePage:56 - User clicked the login page button
+[INFO ] 2022-09-10 18:56:58.498 LoginPage:54 - User is currently on the login page and header text is AUTHENTICATION
+[INFO ] 2022-09-10 18:57:00.822 LoginPage:65 - User has entered username as mertmansurolu@gmail.com and pwd as password
+[INFO ] 2022-09-10 18:57:00.849 LoginPage:74 - User could not logged in the page and error message is: Authentication failed
+[INFO ] 2022-09-10 18:57:07.700 HomePage:51 - User is heading to the home page
+[INFO ] 2022-09-10 18:57:12.144 HomePage:56 - User clicked the login page button
+[INFO ] 2022-09-10 18:57:12.173 LoginPage:54 - User is currently on the login page and header text is AUTHENTICATION
+[INFO ] 2022-09-10 18:57:14.350 LoginPage:65 - User has entered username as test and pwd as password
+[INFO ] 2022-09-10 18:57:14.384 LoginPage:74 - User could not logged in the page and error message is: Invalid email address
